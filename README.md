@@ -7,9 +7,9 @@ A collection of links and useful security stuff
 ##### WAF/Filter bypass
 - https://gist.github.com/0xSojalSec/461bccca9fc927ea2de39943178ca3eb - Mutations in anchor tags
 
-### CSS Injection
+#### CSS Injection
  - https://portswigger.net/research/blind-css-exfiltration - Blind data exfiltration with CSS
-### SQLi
+#### SQLi
 - https://www.imperva.com/blog/how-to-exploit-sql-server-using-ole-automation - Exploiting SQL Server OLE Automation
 
 ### Code Analysis
