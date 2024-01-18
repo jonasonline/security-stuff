@@ -19,6 +19,7 @@ A collection of links and useful security stuff
 - https://github.com/Ademking/repolist - Generate Wordlists from GitHub Repositories
 
 ## Misc
+ - https://chat.openai.com/g/g-HTsfg2w2z-secgpt - Jason Haddix´s GPT. Must be good stuff.
  - https://github.com/pentestmuse-ai/PentestMuse - An AI pentest assistant
  - https://github.com/fr0gger/Awesome-GPT-Agents - Awesome GPTs (Agents) for Cybersecurity
  - https://github.com/stolenusername/cowitness - a tool designed to function as an HTTP, HTTPS, and DNS server. It allows you to serve web pages, log HTTP requests, and customize DNS responses
