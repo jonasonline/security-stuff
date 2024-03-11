@@ -29,6 +29,12 @@ A collection of links and useful security stuff
 - [SAML Raider](https://github.com/portswigger/saml-raider)
 - [Encode IP](https://github.com/portswigger/encode-ip)
 
+### Environment setup
+- [Kitty](https://sw.kovidgoyal.net/kitty)
+- [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+- [pipx](https://pipx.pypa.io/stable/)
+- [Stow](https://www.youtube.com/watch?v=y6XCebnB9gs)
+
 ## Application security
 ### Content Discovery
 - https://github.com/iamj0ker/bypass-403 - A simple script to test for 403 bypasses
