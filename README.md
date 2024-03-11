@@ -33,6 +33,7 @@ A collection of links and useful security stuff
 ### Content Discovery
 - https://github.com/iamj0ker/bypass-403 - A simple script to test for 403 bypasses
 - https://github.com/Dheerajmadhukar/4-ZERO-3 - Tool to bypass 403/401
+- https://github.com/xnl-h4ck3r/waymore - Get URLs from different archive providers
 
 ### Injections
 #### XSS
