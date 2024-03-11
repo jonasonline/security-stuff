@@ -24,6 +24,7 @@ A collection of links and useful security stuff
 
 ## Wordlists
 - https://github.com/Ademking/repolist - Generate Wordlists from GitHub Repositories
+- https://github.com/assetnote/wordlists - Updated wordlists
 
 ## Misc
  - https://chat.openai.com/g/g-HTsfg2w2z-secgpt - Jason Haddix´s GPT. Must be good stuff.
