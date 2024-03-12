@@ -53,6 +53,7 @@ A collection of links and useful security stuff
 
 ### Code Analysis
 - https://github.com/noir-cr/noir - Attack surface detector that identifies endpoints by static analysis
+- https://github.com/Liodeus/swaggerHole - Tool for retrieving secrets in the public APIs on swaggerHub.
 
 ## Wordlists
 - https://github.com/Ademking/repolist - Generate Wordlists from GitHub Repositories
